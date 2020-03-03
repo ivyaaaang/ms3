@@ -15,12 +15,12 @@ Jr. Coding Challenge
   - no. of failed data inserted in the csv file, bad.csv
   
 ## OVERVIEW
--I decided to use netbeans ide to create this java project.
--i used jframe form to create the user interface of the project
--i used JFileChooser to open a file manager and select a file, after selecting the file it will get the file's absolute path
--After getting the path of the csv file, i used a bufferedreader to read the file.
-The bufferedreader will read every line/rows of the file, if the record in every row match the column count the data will be inserted in the sqlite database, if not the data will be inserted in a csv file.
--this java project will also display the no. of recieved data, no. of successful data inserted in the database, test.db and no. of failed data inserted in the csv file, bad.csv
+- I decided to use netbeans ide to create this java project.
+- i used jframe form to create the user interface of the project
+- i used JFileChooser to open a file manager and select a file, after selecting the file it will get the file's absolute path
+- After getting the path of the csv file, I used a bufferedreader to read the file.
+- The bufferedreader will read every line/rows of the file, if the record in every row match the column count the data will be inserted in the sqlite database, if not the data will be inserted in a csv file.
+- this java project will also display the no. of recieved data, no. of successful data inserted in the database, test.db and no. of failed data inserted in the csv file, bad.csv
 
 
 ## GETTING STARTED
