@@ -4,7 +4,7 @@ Jr. Coding Challenge
 
 
 ## SUMMARY
-This Java Application will 
+>This Java Application will 
 -consume a CSV file -verify every rows in the file 
   - if it contains the right number of data elements, the data will be inserted in the database, test.db 
   - if not, the data will be inserted in a csv file, bad.csv 
